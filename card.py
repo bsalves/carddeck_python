@@ -1,6 +1,6 @@
 import json, http.client
 
-class Cards:
+class Card:
     def __init__(self):
         self = self
 
